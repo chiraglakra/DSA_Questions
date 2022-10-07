@@ -1,1 +1,2 @@
 - [Aman kayat](https://github.com/amankayat)
+- [Chirag Lakra](https://github.com/chiraglakra)
